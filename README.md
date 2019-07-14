@@ -29,5 +29,5 @@ const options = {
 
 hoverFlair
   .init(options)
-  .addFlair(target.links, 'color')
+  .addFlair(hoverThing, 'color')
 ```
